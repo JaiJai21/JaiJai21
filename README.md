@@ -1,6 +1,6 @@
 ### Olá pessoal 👋😃
 
-Meu nome é Jailson, e sou um entusiasta da programação que valoriza a colaboração, o aprendizado contínuo e a entrega de produtos de alta qualidade.
+Meu nome é Jailson, sou um entusiasta da programação que valoriza a colaboração, o aprendizado contínuo e a entrega de produtos de alta qualidade.
 
 Com uma base sólida em HTML, CSS e JavaScript, já desenvolvi diversas aplicações web. Atualmente, estou direcionando meus esforços para expandir ainda mais meu conjunto de habilidades, imergindo-me no aprendizado de React e React Native.
 
